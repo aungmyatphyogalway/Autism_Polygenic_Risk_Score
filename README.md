@@ -13,6 +13,9 @@ The existence of a shared genetic architecture between autism and sleep traits i
 
 ### The aim of this study is to investigate the correlation between polygenic risk scores for autism and sleep traits (chronotype, sleep duration and insomnia).
 
+![Caption](images/your-file-name.png)
+
+
 
 
 
