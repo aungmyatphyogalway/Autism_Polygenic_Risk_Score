@@ -1,1 +1,1 @@
-# Autism_Polygenic_Risk_Score
+# Autism Polygenic Risk Score
