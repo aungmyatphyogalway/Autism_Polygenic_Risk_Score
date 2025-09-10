@@ -11,7 +11,7 @@ Polygenic risk score (PRS) estimates an individual’s genetic risk for a diseas
 
 The existence of a shared genetic architecture between autism and sleep traits is currently unclear and requires further investigation.
 
-#The aim of this study is to investigate the correlation between polygenic risk scores for autism and sleep traits (chronotype, sleep duration and insomnia).
+###The aim of this study is to investigate the correlation between polygenic risk scores for autism and sleep traits (chronotype, sleep duration and insomnia).
 
 
 
